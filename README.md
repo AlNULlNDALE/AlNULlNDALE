@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlNULlNDALE
 - 👀 I’m interested in learning how to program
-- 🌱 I’m currently learning javascrip
+- 🌱 I’m currently learning javascript
 - 📫 How to reach me: danielafarina@gmail.com
 
 <!---
